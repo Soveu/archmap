@@ -1,162 +1,162 @@
-| x | alderlakearrowlakeathlon64haswelli686sandybridgeznver1znver5 |
-| --- | --- |
-| 3dnow |🔴 |
-| 3dnowa |🔴 |
-| 64bit |🔴 |
-| adx |🔴 |
-| aes |🔴 |
-| allow_light_256_bit |🔴 |
-| amx_bf16 |🔴 |
-| amx_complex |🔴 |
-| amx_fp16 |🔴 |
-| amx_int8 |🔴 |
-| avx |🔴 |
-| avx2 |🔴 |
-| avx512bf16 |🔴 |
-| avx512bitalg |🔴 |
-| avx512bw |🔴 |
-| avx512cd |🔴 |
-| avx512dq |🔴 |
-| avx512er |🔴 |
-| avx512fp16 |🔴 |
-| avx512ifma |🔴 |
-| avx512pf |🔴 |
-| avx512vbmi |🔴 |
-| avx512vbmi2 |🔴 |
-| avx512vl |🔴 |
-| avx512vnni |🔴 |
-| avx512vp2intersect |🔴 |
-| avx512vpopcntdq |🔴 |
-| avxifma |🔴 |
-| avxneconvert |🔴 |
-| avxvnni |🔴 |
-| avxvnniint16 |🔴 |
-| avxvnniint8 |🔴 |
-| bmi |🔴 |
-| bmi2 |🔴 |
-| branch_hint |🔴 |
-| branchfusion |🔴 |
-| bsf_bsr_0_clobbers_result |🔴 |
-| cldemote |🔴 |
-| clflushopt |🔴 |
-| clwb |🔴 |
-| clzero |🔴 |
-| cmov |🔴 |
-| cmpccxadd |🔴 |
-| cx16 |🔴 |
-| cx8 |🔴 |
-| enqcmd |🔴 |
-| ermsb |🔴 |
-| evex512 |🔴 |
-| f16c |🔴 |
-| false_deps_getmant |🔴 |
-| false_deps_lzcnt_tzcnt |🔴 |
-| false_deps_mulc |🔴 |
-| false_deps_mullq |🔴 |
-| false_deps_perm |🔴 |
-| false_deps_popcnt |🔴 |
-| false_deps_range |🔴 |
-| fast_11bytenop |🔴 |
-| fast_15bytenop |🔴 |
-| fast_7bytenop |🔴 |
-| fast_bextr |🔴 |
-| fast_dpwssd |🔴 |
-| fast_gather |🔴 |
-| fast_hops |🔴 |
-| fast_imm16 |🔴 |
-| fast_lzcnt |🔴 |
-| fast_movbe |🔴 |
-| fast_scalar_fsqrt |🔴 |
-| fast_scalar_shift_masks |🔴 |
-| fast_shld_rotate |🔴 |
-| fast_variable_crosslane_shuffle |🔴 |
-| fast_variable_perlane_shuffle |🔴 |
-| fast_vector_fsqrt |🔴 |
-| fast_vector_shift_masks |🔴 |
-| faster_shift_than_shuffle |🔴 |
-| fma |🔴 |
-| fsgsbase |🔴 |
-| fsrm |🔴 |
-| fxsr |🔴 |
-| gfni |🔴 |
-| hreset |🔴 |
-| idivl_to_divb |🔴 |
-| idivq_to_divl |🔴 |
-| invpcid |🔴 |
-| lea_sp |🔴 |
-| lea_uses_ag |🔴 |
-| lwp |🔴 |
-| lzcnt |🔴 |
-| macrofusion |🔴 |
-| mmx |🔴 |
-| movbe |🔴 |
-| movdir64b |🔴 |
-| movdiri |🔴 |
-| mwaitx |🔴 |
-| no_bypass_delay |🔴 |
-| no_bypass_delay_blend |🔴 |
-| no_bypass_delay_mov |🔴 |
-| no_bypass_delay_shuffle |🔴 |
-| nopl |🔴 |
-| pad_short_functions |🔴 |
-| pclmul |🔴 |
-| pconfig |🔴 |
-| pku |🔴 |
-| popcnt |🔴 |
-| prefer_256_bit |🔴 |
-| prefer_mask_registers |🔴 |
-| prefer_movmsk_over_vtest |🔴 |
-| prefetchi |🔴 |
-| prefetchwt1 |🔴 |
-| prfchw |🔴 |
-| ptwrite |🔴 |
-| rdpid |🔴 |
-| rdpru |🔴 |
-| rdrnd |🔴 |
-| rdseed |🔴 |
-| sahf |🔴 |
-| sbb_dep_breaking |🔴 |
-| serialize |🔴 |
-| sha |🔴 |
-| sha512 |🔴 |
-| shstk |🔴 |
-| slow_3ops_lea |🔴 |
-| slow_incdec |🔴 |
-| slow_lea |🔴 |
-| slow_pmaddwd |🔴 |
-| slow_pmulld |🔴 |
-| slow_shld |🔴 |
-| slow_two_mem_ops |🔴 |
-| slow_unaligned_mem_16 |🔴 |
-| slow_unaligned_mem_32 |🔴 |
-| sm3 |🔴 |
-| sm4 |🔴 |
-| smap |🔴 |
-| smep |🔴 |
-| soft_float |🔴 |
-| sse |🔴 |
-| sse2 |🔴 |
-| sse3 |🔴 |
-| sse4_1 |🔴 |
-| sse4_2 |🔴 |
-| sse4a |🔴 |
-| ssse3 |🔴 |
-| tbm |🔴 |
-| tsxldtrk |🔴 |
-| tuning_fast_imm_vector_shift |🔴 |
-| uintr |🔴 |
-| use_glm_div_sqrt_costs |🔴 |
-| use_slm_arith_costs |🔴 |
-| usermsr |🔴 |
-| vaes |🔴 |
-| vpclmulqdq |🔴 |
-| vzeroupper |🔴 |
-| waitpkg |🔴 |
-| wbnoinvd |🔴 |
-| widekl |🔴 |
-| x87 |🔴 |
-| xop |🔴 |
-| xsave |🔴 |
-| xsavec |🔴 |
-| xsaveopt |🔴 |
-| xsaves |🔴 |
+| x | alderlake | arrowlake | athlon64 | haswell | i686 | sandybridge | znver1 | znver5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3dnow |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| 3dnowa |🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| 64bit |🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| adx |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| aes |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+| allow_light_256_bit |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| amx_bf16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| amx_complex |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| amx_fp16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| amx_int8 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avx |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
+| avx2 |🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 |
+| avx512bf16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512bitalg |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512bw |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avx512cd |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512dq |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512er |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avx512fp16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avx512ifma |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512pf |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avx512vbmi |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512vbmi2 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512vl |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512vnni |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512vp2intersect |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avx512vpopcntdq |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avxifma |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avxneconvert |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avxvnni |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| avxvnniint16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| avxvnniint8 |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| bmi |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| bmi2 |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| branch_hint |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| branchfusion |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| bsf_bsr_0_clobbers_result |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| cldemote |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| clflushopt |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| clwb |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| clzero |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| cmov |🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| cmpccxadd |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| cx16 |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| cx8 |🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 |
+| enqcmd |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| ermsb |🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+| evex512 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| f16c |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 |
+| false_deps_getmant |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| false_deps_lzcnt_tzcnt |🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+| false_deps_mulc |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| false_deps_mullq |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| false_deps_perm |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| false_deps_popcnt |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+| false_deps_range |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_11bytenop |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_15bytenop |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| fast_7bytenop |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_bextr |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_dpwssd |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| fast_gather |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_hops |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_imm16 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_lzcnt |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_movbe |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_scalar_fsqrt |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| fast_scalar_shift_masks |🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_shld_rotate |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+| fast_variable_crosslane_shuffle |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fast_variable_perlane_shuffle |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_vector_fsqrt |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fast_vector_shift_masks |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| faster_shift_than_shuffle |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| fma |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 |
+| fsgsbase |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| fsrm |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| fxsr |🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| gfni |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| hreset |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| idivl_to_divb |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| idivq_to_divl |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| invpcid |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 |
+| lea_sp |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| lea_uses_ag |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| lwp |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| lzcnt |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| macrofusion |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 |
+| mmx |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| movbe |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| movdir64b |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| movdiri |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| mwaitx |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| no_bypass_delay |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| no_bypass_delay_blend |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| no_bypass_delay_mov |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+| no_bypass_delay_shuffle |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nopl |🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| pad_short_functions |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| pclmul |🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 |
+| pconfig |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| pku |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| popcnt |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| prefer_256_bit |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| prefer_mask_registers |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| prefer_movmsk_over_vtest |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| prefetchi |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| prefetchwt1 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| prfchw |🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| ptwrite |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| rdpid |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| rdpru |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| rdrnd |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| rdseed |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| sahf |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| sbb_dep_breaking |🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| serialize |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sha |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| sha512 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| shstk |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| slow_3ops_lea |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+| slow_incdec |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| slow_lea |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| slow_pmaddwd |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| slow_pmulld |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| slow_shld |🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| slow_two_mem_ops |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| slow_unaligned_mem_16 |🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 |
+| slow_unaligned_mem_32 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
+| sm3 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sm4 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| smap |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| smep |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| soft_float |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse2 |🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse3 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse4_1 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse4_2 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| sse4a |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| ssse3 |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| tbm |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| tsxldtrk |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| tuning_fast_imm_vector_shift |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| uintr |🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| use_glm_div_sqrt_costs |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| use_slm_arith_costs |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| usermsr |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| vaes |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| vpclmulqdq |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| vzeroupper |🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| waitpkg |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| wbnoinvd |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+| widekl |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| x87 |🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| xop |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| xsave |🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| xsavec |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| xsaveopt |🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+| xsaves |🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |

@@ -14,14 +14,14 @@ for k, v in data.items():
 
 # architectures = sorted(data.keys())
 architectures = [
-    "alderlake"
-    "arrowlake"
-    "athlon64"
-    "haswell"
-    "i686"
-    "sandybridge"
-    "znver1"
-    "znver5"
+    "alderlake",
+    "arrowlake",
+    "athlon64",
+    "haswell",
+    "i686",
+    "sandybridge",
+    "znver1",
+    "znver5",
 ]
 
 extensions = sorted(revdata.keys())
